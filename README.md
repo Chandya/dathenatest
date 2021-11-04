@@ -1,2 +1,0 @@
-# dathenatest
-SEIS TEST DATHENA
